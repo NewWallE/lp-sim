@@ -1,0 +1,1 @@
+export const INVESTMENT_AMOUNT = 100000;
